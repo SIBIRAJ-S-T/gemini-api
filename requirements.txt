@@ -1,4 +1,3 @@
 fastapi
-google-generativeai
 uvicorn
-requests
+google-generativeai
